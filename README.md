@@ -1,5 +1,5 @@
 #  App de Roteiro de Viagem
- <strong>Rocketseat - NLW Journey</strong>
+### Rocketseat - NLW Journey
 
  Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
  
