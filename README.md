@@ -44,5 +44,3 @@ Fases da resolução de um problema
 01. Coletar os dados
 02. Processar os dados
 03. Apresentar os dados
-=======
->>>>>>> 13003be0c3d820489355425ece87395d620001d8
