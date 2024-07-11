@@ -4,11 +4,16 @@
  Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
  
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<<<<<<< HEAD
 <div>
+=======
+<div style="justent-cont:space-betwen;">
+>>>>>>> 13003be0c3d820489355425ece87395d620001d8
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<<<<<<< HEAD
 
 <hr>
 
@@ -42,3 +47,5 @@ Fases da resolução de um problema
 01. Coletar os dados
 02. Processar os dados
 03. Apresentar os dados
+=======
+>>>>>>> 13003be0c3d820489355425ece87395d620001d8
