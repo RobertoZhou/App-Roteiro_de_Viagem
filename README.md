@@ -1,9 +1,11 @@
 #  App de Roteiro de Viagem
 ### Rocketseat - NLW Journey
 
- Aplicação desenvolvida no NLW Journey da Rocketseat na trilha <strong>HTML+CSS+JS</strong>.
+## Aplicação desenvolvida no NLW Journey da Rocketseat na trilha <strong>HTML+CSS+JS</strong>.
+
+ O projeto ajuda o usuário a organizar suas atividades, permitindo que ele crie e gerencie atividades com nome, data e horários específicos. Durante a viagem, o usuário pode planejar suas atividades diárias adicionando tarefas para cada dia.
  
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div>
 <div style="justent-cont:space-betwen;">
