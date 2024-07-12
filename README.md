@@ -1,6 +1,6 @@
 #  App de Roteiro de Viagem
 
-## Rocketseat - NLW Journey
+### Rocketseat - NLW Journey
 
   Aplicação desenvolvida no NLW Journey da Rocketseat na trilha <strong>HTML+CSS+JS</strong>.
 
